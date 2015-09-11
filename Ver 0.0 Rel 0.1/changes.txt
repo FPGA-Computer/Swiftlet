@@ -1,0 +1,9 @@
+R7, R9, R10, C12, C13 : voltage sensing 
+- R value changes to account for ARM input leakage
+- C value changes for lower time constant
+
+Opamp U12: A, B, D
+- fixing the swap in Non-inverting & inverting inputs.
+
+slightly increase separation of the battery holder.  
+Not happy with this part.

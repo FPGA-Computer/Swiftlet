@@ -3,6 +3,9 @@ This is a Personal Sonar System or the Visually Impaired Person for HaD 2015 Con
 Ver 0.0 Rel 0/	
 Initial PCB release - first layout/non-tested
 
+Ver 0.0 Rel 0.1/	
+Initial PCB release - bugs fixed (so far) against Rel 0.0
+
   Eagle PCB/ Eagle CAD files
   Sketch3D/  Sketch3D model
   LTSpice/   Linear Tech Spice Simulation analog file
