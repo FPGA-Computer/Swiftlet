@@ -2962,7 +2962,7 @@ design rules under a new name.</description>
 <element name="C37" library="ipc-7351-capacitor" package="CAPC1005X60N" value="1uF" x="72.5424" y="30.7086" smashed="yes" rot="R90">
 <attribute name="NAME" x="71.9634" y="29.9336" size="0.6096" layer="25" font="vector" ratio="12" rot="R90"/>
 <attribute name="VALUE" x="74.3914" y="29.9336" size="1.27" layer="27" font="vector" ratio="10" rot="R90"/>
-<attribute name="PARTNO" value="DK: 490-10432-1-ND" x="72.5424" y="30.7086" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PARTNO" value="DK: 490-10435-1-ND" x="72.5424" y="30.7086" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C36" library="ipc-7351-capacitor" package="CAPC1005X60N" value="0.1uF" x="72.5424" y="32.6136" smashed="yes" rot="R270">
 <attribute name="NAME" x="73.1214" y="33.3886" size="0.6096" layer="25" font="vector" ratio="12" rot="R270"/>
@@ -3005,7 +3005,7 @@ design rules under a new name.</description>
 <element name="C8" library="ipc-7351-capacitor" package="CAP2012X70N" value="10uF" x="48.006" y="12.5984" smashed="yes" rot="R180">
 <attribute name="NAME" x="49.481" y="11.5809" size="0.6096" layer="25" font="vector" ratio="12" rot="R180"/>
 <attribute name="VALUE" x="49.481" y="14.8859" size="1.27" layer="27" font="vector" ratio="10" rot="R180"/>
-<attribute name="PARTNO" value="STOCK: DK 311-1459-1-ND" x="48.006" y="12.5984" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="DK: 490-10470-1-ND" x="48.006" y="12.5984" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="S1" library="Misc Passives" package="SW-JS203011AQN" value="CL-SB-23C-11" x="42.672" y="2.667" smashed="yes">
 <attribute name="PARTNO" value="DK: 563-1360-ND" x="42.672" y="2.667" size="1.778" layer="27" display="off"/>
@@ -3265,7 +3265,7 @@ design rules under a new name.</description>
 <element name="C12" library="ipc-7351-capacitor" package="CAPC1005X60N" value="1nF" x="23.2918" y="32.5628" smashed="yes">
 <attribute name="NAME" x="22.5168" y="33.1418" size="0.6096" layer="25" font="vector" ratio="12"/>
 <attribute name="VALUE" x="22.5168" y="30.7138" size="1.27" layer="27" font="vector" ratio="10"/>
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="23.2918" y="32.5628" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNO" value="DK: 490-6349-1-ND" x="23.2918" y="32.5628" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R10" library="ipc-7351-resistor" package="RESC1005X40AN" value="220K" x="35.7632" y="17.4752" smashed="yes">
 <attribute name="NAME" x="35.0132" y="18.0292" size="0.6096" layer="25" font="vector" ratio="12"/>
@@ -3275,7 +3275,7 @@ design rules under a new name.</description>
 <element name="C13" library="ipc-7351-capacitor" package="CAPC1005X60N" value="1nF" x="35.7632" y="16.51" smashed="yes" rot="R180">
 <attribute name="NAME" x="36.5382" y="15.931" size="0.6096" layer="25" font="vector" ratio="12" rot="R180"/>
 <attribute name="VALUE" x="36.5382" y="18.359" size="1.27" layer="27" font="vector" ratio="10" rot="R180"/>
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="35.7632" y="16.51" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="DK: 490-6349-1-ND" x="35.7632" y="16.51" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R1" library="ipc-7351-resistor" package="RESC1005X40AN" value="10K" x="35.941" y="9.8806" smashed="yes" rot="R90">
 <attribute name="NAME" x="35.387" y="9.1306" size="0.6096" layer="25" font="vector" ratio="12" rot="R90"/>
@@ -3285,7 +3285,7 @@ design rules under a new name.</description>
 <element name="R2" library="ipc-7351-resistor" package="RESC1005X40AN" value="10K" x="35.941" y="11.684" smashed="yes" rot="R90">
 <attribute name="NAME" x="35.387" y="10.934" size="0.6096" layer="25" font="vector" ratio="12" rot="R90"/>
 <attribute name="VALUE" x="37.765" y="10.934" size="1.27" layer="27" font="vector" ratio="10" rot="R90"/>
-<attribute name="PARTNO" value="*" x="35.941" y="11.684" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PARTNO" value="DK: 311-10.0KLRCT-ND" x="35.941" y="11.684" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="U14" library="Misc Memory" package="TSSOP8" value="23LC512-I/ST" x="29.083" y="7.8486" smashed="yes" rot="R270">
 <attribute name="PARTNO" value="DK: 23LC512-I/ST-ND" x="29.083" y="7.8486" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3362,10 +3362,10 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="DK: 490-1312-1-ND" x="58.801" y="30.0228" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R18" library="ipc-7351-resistor" package="RESC1005X40AN" value="22K" x="58.801" y="31.9024" rot="R180">
-<attribute name="PARTNO" value="DK:RC0603FR-0775KL" x="58.801" y="31.9024" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="DK: 311-22.0KLRCT-ND" x="58.801" y="31.9024" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R22" library="ipc-7351-resistor" package="RESC1005X40AN" value="3.16K" x="58.801" y="30.988">
-<attribute name="PARTNO" value="DK: 311-10.0KLRCT-ND" x="58.801" y="30.988" size="1.778" layer="27" display="off"/>
+<attribute name="PARTNO" value="DK: 1276-4063-1-ND" x="58.801" y="30.988" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C32" library="ipc-7351-capacitor" package="CAPC1005X60N" value="220pF" x="18.3896" y="24.6126" rot="R180">
 <attribute name="PARTNO" value="DK: 1276-1531-1-ND" x="18.3896" y="24.6126" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3443,7 +3443,7 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="*" x="56.134" y="34.163" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C17" library="ipc-7351-capacitor" package="CAPC1005X60N" value="10nF" x="1.397" y="34.29" rot="R270">
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="1.397" y="34.29" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PARTNO" value="DK: 490-1312-1-ND" x="1.397" y="34.29" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="T1" library="Misc Sensors" package="TCT40-16" value="TCT40-16T" x="88.519" y="28.41625" rot="MR90">
 <attribute name="PARTNO" value="*" x="88.519" y="28.41625" size="1.778" layer="28" rot="MR90" display="off"/>
@@ -3467,7 +3467,7 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="*" x="93.726" y="18.669" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C48" library="ipc-7351-capacitor" package="CAPC1005X60N" value="0.1uF" x="92.7862" y="16.891" smashed="yes" rot="R180">
-<attribute name="PARTNO" value="*" x="92.7862" y="16.891" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="92.7862" y="16.891" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="U19" library="Misc Memory" package="TSSOP8" value="AT24C02" x="84.582" y="22.733" smashed="yes" rot="R180">
 <attribute name="PARTNO" value="*" x="84.582" y="22.733" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3476,10 +3476,10 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="*" x="89.408" y="18.4912" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C49" library="ipc-7351-capacitor" package="CAPC1005X60N" value="0.1uF" x="86.8426" y="20.8534" smashed="yes" rot="R90">
-<attribute name="PARTNO" value="*" x="86.8426" y="20.8534" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="86.8426" y="20.8534" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C50" library="ipc-7351-capacitor" package="CAPC1005X60N" value="0.1uF" x="90.0938" y="15.748" smashed="yes" rot="R180">
-<attribute name="PARTNO" value="*" x="90.0938" y="15.748" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND" x="90.0938" y="15.748" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="J6" library="Misc Conn" package="1X04R" value="" x="78.613" y="5.3975" smashed="yes" rot="R270">
 <attribute name="VALUE" x="75.438" y="10.4775" size="1.27" layer="27" rot="R270"/>
@@ -3505,7 +3505,7 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="*" x="30.353" y="42.291" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C51" library="ipc-7351-capacitor" package="CAPC1005X60N" value="10nF" x="1.397" y="42.545" rot="R270">
-<attribute name="PARTNO" value="*" x="1.397" y="42.545" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PARTNO" value="DK: 490-1312-1-ND" x="1.397" y="42.545" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="H1" library="holes" package="3,2-PAD" value="MOUNT-PAD-ROUND3.2" x="20.574" y="45.466">
 <attribute name="PARTNO" value="*" x="20.574" y="45.466" size="1.778" layer="27" display="off"/>
@@ -3514,7 +3514,7 @@ design rules under a new name.</description>
 <attribute name="PARTNO" value="*" x="39.624" y="45.466" size="1.778" layer="27" display="off"/>
 </element>
 <element name="L7" library="ipc-7351-inductor" package="INDC1005X60N" value="F600R" x="1.397" y="40.64" rot="R270">
-<attribute name="PARTNO" value="*" x="1.397" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PARTNO" value="DK: 553-2374-1-ND" x="1.397" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="U$6" library="Misc logo" package="CC-100" value="CC100%" x="24.9936" y="49.149" rot="MR180"/>
 <element name="U$3" library="Misc logo" package="CC-100" value="CC100%" x="48.387" y="34.163" rot="MR0">
@@ -3997,12 +3997,12 @@ design rules under a new name.</description>
 <wire x1="95.9492" y1="17.919" x2="95.9612" y2="17.907" width="0.127" layer="1"/>
 <contactref element="R24" pad="1"/>
 <via x="57.4548" y="25.1968" extent="1-16" drill="0.3048"/>
+<via x="66.675" y="27.0764" extent="1-16" drill="0.3048"/>
 <wire x1="34.0614" y1="16.2814" x2="34.0542" y2="16.2814" width="0" layer="19" extent="1-1"/>
 <wire x1="14.6558" y1="35.7196" x2="14.6558" y2="35.7378" width="0" layer="19" extent="1-1"/>
 <wire x1="19.304" y1="27.7368" x2="19.3112" y2="27.7368" width="0" layer="19" extent="1-1"/>
 <wire x1="69.7738" y1="39.497" x2="70.5866" y2="35.8576" width="0" layer="19" extent="1-1"/>
 <wire x1="81.153" y1="22.86" x2="74.8538" y2="22.86" width="0" layer="19" extent="1-1"/>
-<via x="66.675" y="27.0764" extent="1-16" drill="0.3048"/>
 </signal>
 <signal name="BYP">
 <contactref element="U17" pad="2"/>

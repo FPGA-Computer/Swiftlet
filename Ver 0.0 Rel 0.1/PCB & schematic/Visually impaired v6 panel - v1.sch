@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -10344,7 +10344,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
 </part>
 <part name="C37" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="1uF">
-<attribute name="PARTNO" value="DK: 490-10432-1-ND"/>
+<attribute name="PARTNO" value="DK: 490-10435-1-ND"/>
 </part>
 <part name="C36" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="0.1uF">
 <attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
@@ -10381,7 +10381,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 </part>
 <part name="SUPPLY22" library="supply2" deviceset="GND" device=""/>
 <part name="C8" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0805N" value="10uF">
-<attribute name="PARTNO" value="STOCK: DK 311-1459-1-ND"/>
+<attribute name="PARTNO" value="DK: 490-10470-1-ND"/>
 </part>
 <part name="SUPPLY23" library="supply2" deviceset="GND" device=""/>
 <part name="S1" library="Misc Passives" deviceset="JS203011" device="AQN" technology="AQN" value="CL-SB-23C-11">
@@ -10591,21 +10591,21 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 </part>
 <part name="SUPPLY60" library="supply2" deviceset="GND" device=""/>
 <part name="C12" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="1nF">
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
+<attribute name="PARTNO" value="DK: 490-6349-1-ND"/>
 </part>
 <part name="SUPPLY62" library="supply2" deviceset="GND" device=""/>
 <part name="R10" library="ipc-7351-resistor" deviceset="RESISTOR_" device="0402" value="220K">
 <attribute name="PARTNO" value="DK: 311-220KLRCT-ND"/>
 </part>
 <part name="C13" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="1nF">
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
+<attribute name="PARTNO" value="DK: 490-6349-1-ND"/>
 </part>
 <part name="SUPPLY63" library="supply2" deviceset="GND" device=""/>
 <part name="R1" library="ipc-7351-resistor" deviceset="RESISTOR_" device="0402" value="10K">
 <attribute name="PARTNO" value="DK: 311-10.0KLRCT-ND"/>
 </part>
 <part name="R2" library="ipc-7351-resistor" deviceset="RESISTOR_" device="0402" value="10K">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="DK: 311-10.0KLRCT-ND"/>
 </part>
 <part name="SUPPLY65" library="supply2" deviceset="GND" device=""/>
 <part name="U14" library="Misc Memory" deviceset="23*" device="ST" technology="K640" value="23LC512-I/ST">
@@ -10700,10 +10700,10 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <attribute name="PARTNO" value="DK: 490-1312-1-ND"/>
 </part>
 <part name="R18" library="ipc-7351-resistor" deviceset="RESISTOR_" device="0402" value="22K">
-<attribute name="PARTNO" value="DK:RC0603FR-0775KL"/>
+<attribute name="PARTNO" value="DK: 311-22.0KLRCT-ND"/>
 </part>
 <part name="R22" library="ipc-7351-resistor" deviceset="RESISTOR_" device="0402" value="3.16K">
-<attribute name="PARTNO" value="DK: 311-10.0KLRCT-ND"/>
+<attribute name="PARTNO" value="DK: 1276-4063-1-ND"/>
 </part>
 <part name="SUPPLY83" library="supply2" deviceset="GND" device=""/>
 <part name="C32" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="220pF">
@@ -10786,7 +10786,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <attribute name="PARTNO" value="*"/>
 </part>
 <part name="C17" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="10nF">
-<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
+<attribute name="PARTNO" value="DK: 490-1312-1-ND"/>
 </part>
 <part name="SUPPLY92" library="supply2" deviceset="GND" device=""/>
 <part name="T1" library="Misc Sensors" deviceset="TCT40-16" device="T">
@@ -10814,7 +10814,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <part name="SUPPLY97" library="supply2" deviceset="VCC" device=""/>
 <part name="SUPPLY98" library="supply2" deviceset="GND" device=""/>
 <part name="C48" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="0.1uF">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
 </part>
 <part name="SUPPLY99" library="supply2" deviceset="VCC" device=""/>
 <part name="U19" library="Misc Memory" deviceset="24*" device="ST" value="AT24C02">
@@ -10831,11 +10831,11 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <part name="SUPPLY105" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY106" library="supply2" deviceset="GND" device=""/>
 <part name="C49" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="0.1uF">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
 </part>
 <part name="SUPPLY107" library="supply2" deviceset="VCC" device=""/>
 <part name="C50" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="0.1uF">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="STOCK: DK 587-1227-1-ND"/>
 </part>
 <part name="SUPPLY108" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY109" library="supply2" deviceset="VCC" device=""/>
@@ -10869,7 +10869,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 </part>
 <part name="SUPPLY115" library="supply2" deviceset="GND" device=""/>
 <part name="C51" library="ipc-7351-capacitor" deviceset="CAPACITOR_" device="0402" value="10nF">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="DK: 490-1312-1-ND"/>
 </part>
 <part name="SUPPLY116" library="supply2" deviceset="GND" device=""/>
 <part name="H1" library="holes" deviceset="MOUNT-PAD-ROUND" device="3.2">
@@ -10880,7 +10880,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 </part>
 <part name="SUPPLY117" library="supply2" deviceset="GND" device=""/>
 <part name="L7" library="ipc-7351-inductor" deviceset="INDUCTOR_" device="0402" value="F600R">
-<attribute name="PARTNO" value="*"/>
+<attribute name="PARTNO" value="DK: 553-2374-1-ND"/>
 </part>
 <part name="GRILL1" library="Misc Sensors" deviceset="2403-260-00001-GRILL" device="">
 <attribute name="PARTNO" value="*"/>
