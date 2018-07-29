@@ -11,7 +11,7 @@ Initial PCB release - bugs fixed (so far) against Rel 0.0
   LTSpice/   Linear Tech Spice Simulation analog file
 
 Hackaday project page is at 
-https://hackaday.io/project/5903-sonar-for-the-visually-impaired
+https://hw-by-design.blogspot.com/2018/07/project-swiftlet-sonar-for-visually.html
 
 This work is licensed under a Creative Commons Attribution-
 NonCommercial-ShareAlike 4.0 International License.
